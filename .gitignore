@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore build artifacts
+/out
+/_next
+/.next
+index.html
+404.html
